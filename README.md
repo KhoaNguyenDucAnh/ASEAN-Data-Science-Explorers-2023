@@ -1,11 +1,11 @@
 # ASEAN-Data-Science-Explorers-2023
 ## 1. SDGs
-- [ ] [6. Clean water and sanitation]([Goal 6 | Department of Economic and Social Affairs (un.org)](https://sdgs.un.org/goals/goal6))
-- [ ] [7. Affordable and clean energy]([Goal 7 | Department of Economic and Social Affairs (un.org)](https://sdgs.un.org/goals/goal7))
-- [ ] [8. Decent work and  economic growth]([Goal 8 | Department of Economic and Social Affairs (un.org)](https://sdgs.un.org/goals/goal8))
-- [ ] [11. Sustainable cities and communities]([Goal 11 | Department of Economic and Social Affairs (un.org)](https://sdgs.un.org/goals/goal11))
-- [ ] [12. Responsible consumption and production]([Goal 12 | Department of Economic and Social Affairs (un.org)](https://sdgs.un.org/goals/goal12))
-- [ ] [13. Climate action][Goal 13 | Department of Economic and Social Affairs (un.org)](https://sdgs.un.org/goals/goal13)
+- [ ] [6. Clean water and sanitation](https://sdgs.un.org/goals/goal6)
+- [ ] [7. Affordable and clean energy](https://sdgs.un.org/goals/goal7)
+- [ ] [8. Decent work and  economic growth](https://sdgs.un.org/goals/goal8)
+- [ ] [11. Sustainable cities and communities](https://sdgs.un.org/goals/goal11)
+- [ ] [12. Responsible consumption and production](https://sdgs.un.org/goals/goal12)
+- [ ] [13. Climate action](https://sdgs.un.org/goals/goal13)
 
 ## 2. Datasets
 - [ ] [ASEAN Statistical Yearbook 2020](https://aseandse.org/asean-statistical-yearbook-2020/)
